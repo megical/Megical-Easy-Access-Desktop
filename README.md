@@ -1,1 +1,1 @@
-# Megical-Easy-Access-Desktop
+# Megical-Easy-Access-Desktop for Windows
