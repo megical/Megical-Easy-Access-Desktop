@@ -1,3 +1,1 @@
-# hightrust.id desktop app fo windows. 
-
-# Megical-Easy-Access-Desktop for Windows
+# hightrust.id desktop app fo windows.
